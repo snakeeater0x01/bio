@@ -1,7 +1,8 @@
-# ousbaailyas.giyhub.io/bio
+#                 A little bio website.
 
-## bio
-A little bio website.
+
+ ![alt text](https://github.com/ousbaailyas/bio/blob/master/seicon.png) ousbaailyas.giyhub.io/bio 
+
 
 ![alt text](https://github.com/ousbaailyas/bio/blob/master/Screen%20Shot%202022-02-21%20at%2012.23.59%20AM.png)
 
